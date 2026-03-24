@@ -73,6 +73,7 @@ Electronic tuning refers to change in repeller voltage causing a change in outpu
 
 <img width="1080" height="1459" alt="image" src="https://github.com/user-attachments/assets/7a148520-0e02-448b-9227-9889f81aba21" />
 
+
 **CALCULATIONS:**
 
 Tuning range of 1 ¾ mode is Po = 10(x/20) watts, where x is dB reading in VSWR meter.(Include sample calculations/Display/plot/typical graph) By taking the values of repeller voltage we can calculate the the mode number N1 = n + ¾ with V2 = N2 = (n +1) + ¾ with V1 = N1 & N2 are respective modes numbers. 
