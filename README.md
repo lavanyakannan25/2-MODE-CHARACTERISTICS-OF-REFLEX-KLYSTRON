@@ -71,6 +71,7 @@ Electronic tuning refers to change in repeller voltage causing a change in outpu
 
 
 <img width="772" height="299" alt="image" src="https://github.com/user-attachments/assets/5a797011-4dc5-4424-a754-1ebb64d8bbf4" />
+
 <img width="1080" height="1459" alt="image" src="https://github.com/user-attachments/assets/7a148520-0e02-448b-9227-9889f81aba21" />
 
 **CALCULATIONS:**
@@ -82,8 +83,9 @@ ETS (Electronic Tuning Sensitivity) = f2 - f1 / V2 – V1 MHz / V
 
 Check the connections before switching on the kit. Keep all the knobs in minimum position before going to switch ‘ON’ the powersupply of VSWR / Klystron power supplies. Note: For klystron power supply “HT” should be ‘OFF’ before switching ‘ON’the main supply. Beam knob should be completely in anticlockwise direction and repeller voltageknob should be completely clockwise direction. Switch on the main supply and give some warm up time to get current / accuratereading. Connections should be done properly. Don’t see directly inside the waveguide. After the completion of experiment, before leaving the bench switch off themains keep all the knobs in minimum position (i.e.) as those are in rule 2. If the main supply failed in the middle of the experiment, come to 1st condition (i.e.)keep all the knobs in minimum positions and switch off main switches. Don’t increase the repeller voltage more than -70V (i.e.) it should be between -70V to 270V.
 
- **Result:**
 
+
+ **Result:**
  
  Thus, the experiment confirms the reflex klystron’s suitability as a reliable, variable-frequency microwave source for laboratory applications.
    	
